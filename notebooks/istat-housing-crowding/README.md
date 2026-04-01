@@ -1,13 +1,15 @@
 # istat-housing-crowding
 
-- **Domanda**: dove il sovraffollamento abitativo resta piu' concentrato e con quali differenze territoriali?
+- **Tema**: casa, affitto e densita' abitativa
+- **Domanda**: il divario tra affitto e proprieta' nella densita' abitativa media resta stabile nel tempo?
 - **Fonte**: ISTAT SDMX
 - **Stato**: `esplorativo`
 - **Caveat principali**:
   - dati campionari e possibili limiti su celle piccole
-  - lettura da tenere prudente rispetto a reddito e condizioni abitative piu' ampie
+  - la metrica non coincide con il tasso standard di sovraffollamento europeo
+  - la lettura va tenuta prudente rispetto a reddito e condizioni abitative piu' ampie
 
-## Collegamenti utili
+## In questa cartella
 
-- candidate DI o pilot: `dataset-incubator/candidates/` o branch pilot collegato
-- discussion DCL collegata: da aggiungere quando aperta
+- notebook di prima lettura sul confronto affitto / proprieta'
+- eventuali follow-up su composizione familiare e tipo di abitazione

@@ -1,51 +1,51 @@
-# Notebooks Lab
+# Analisi civiche dai dati
 
-Raccolta personale di notebook analitici.
+Questa repo raccoglie notebook e prime letture su temi pubblici italiani:
+spesa, casa, pensioni, fondi europei, territorio, servizi.
 
-Scopo:
+L'idea e' semplice: usare i dati per fare domande piu' chiare, produrre analisi leggibili
+e tenere traccia delle piste che meritano di essere approfondite.
 
-- tenere prime letture e analisi esplorative fuori dai repo canonici del Lab
-- usare questi notebook come staging leggero per discussion `Analisi`
-- promuovere nel Lab solo i casi che reggono davvero
+## Cosa trovi qui
 
-## Cosa c'e' qui
+- notebook organizzati per tema
+- una breve nota per ogni filone: domanda, fonte, limiti principali
+- un piccolo backlog di analisi future nelle issue
 
-- notebook per filone in `notebooks/<slug>/`
-- mini README per ogni filone con domanda, fonte, stato e caveat
-- eventuali asset leggeri in `assets/preview/`
-- note di workflow in `notes/`
+## Cosa non trovi qui
 
-## Cosa non c'e'
+- grandi dataset caricati nel repo
+- pipeline tecniche complete
+- analisi gia' definitive su ogni tema
 
-- dati raw, clean o mart pesanti
-- pipeline complete
-- contratto tecnico dei candidate
-- artefatti pubblici gia' consolidati del Lab
+Molti notebook sono letture iniziali: servono a capire se una domanda regge, non a chiuderla una volta per tutte.
 
-## Stati consigliati
+## Stati dei filoni
 
-Usare uno di questi stati nei README dei filoni:
+Nei README dei singoli temi puoi trovare questi stati:
 
 - `esplorativo`
 - `draft`
 - `condiviso pubblicamente`
 - `ripreso nel Lab`
 
-## Flusso consigliato
+## Come usare il repo
 
-1. notebook personale o locale
-2. discussion `Analisi` con link al notebook
-3. review e confronto pubblico
-4. eventuale promozione nel Lab
+1. partire da un tema o da un dataset pubblico
+2. costruire un notebook piccolo e leggibile
+3. chiarire limiti e caveat
+4. decidere se vale la pena trasformare la lettura in qualcosa di piu' pubblico o piu' strutturato
 
-## Label backlog
+## Issue e backlog
 
-Per il backlog delle issue nel repo personale:
+Le issue servono come backlog leggero delle prossime analisi.
 
-- `analysis` = issue analitica collegata a un filone o notebook
+Label usate:
+
+- `analysis` = analisi o lettura collegata a un notebook
 - `idea` = idea ancora non avviata
-- `draft` = analisi o notebook in bozza
-- `in-progress` = lavoro attivo in corso
-- `ready-discussion` = abbastanza pronta per una discussion `Analisi`
-- `moved-to-lab` = ripresa o promossa nel Lab
+- `draft` = analisi in bozza
+- `in-progress` = lavoro attivo
+- `ready-discussion` = abbastanza pronta per una discussione pubblica
+- `moved-to-lab` = ripresa in uno spazio piu' strutturato
 - `parked` = pista sospesa o lasciata in attesa

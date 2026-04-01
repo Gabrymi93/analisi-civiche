@@ -1,5 +1,6 @@
 # inps-pensioni
 
+- **Tema**: pensioni e differenze territoriali
 - **Domanda**: come si distribuiscono territorialmente i trattamenti pensionistici nelle classi sotto i 1000 euro?
 - **Fonte**: INPS Open Data, dataset 6002
 - **Stato**: `draft`
@@ -8,7 +9,7 @@
   - le classi di importo sono discrete
   - manca il confronto con costo della vita regionale
 
-## Collegamenti utili
+## In questa cartella
 
-- candidate DI: `dataset-incubator/candidates/inps-pensioni/`
-- discussion DCL collegata: da aggiungere quando aperta
+- notebook di prima lettura sulla distribuzione regionale dei trattamenti sotto i 1000 euro
+- eventuali follow-up sulla tipologia dei trattamenti o sul divario di genere
