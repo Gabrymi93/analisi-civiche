@@ -37,3 +37,15 @@ Usare uno di questi stati nei README dei filoni:
 2. discussion `Analisi` con link al notebook
 3. review e confronto pubblico
 4. eventuale promozione nel Lab
+
+## Label backlog
+
+Per il backlog delle issue nel repo personale:
+
+- `analysis` = issue analitica collegata a un filone o notebook
+- `idea` = idea ancora non avviata
+- `draft` = analisi o notebook in bozza
+- `in-progress` = lavoro attivo in corso
+- `ready-discussion` = abbastanza pronta per una discussion `Analisi`
+- `moved-to-lab` = ripresa o promossa nel Lab
+- `parked` = pista sospesa o lasciata in attesa
