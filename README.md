@@ -27,7 +27,7 @@ Nei README dei singoli temi puoi trovare questi stati:
 - `esplorativo`
 - `draft`
 - `condiviso pubblicamente`
-- `ripreso nel Lab`
+- `sviluppato altrove`
 
 ## Come usare il repo
 
@@ -46,6 +46,6 @@ Label usate:
 - `idea` = idea ancora non avviata
 - `draft` = analisi in bozza
 - `in-progress` = lavoro attivo
-- `ready-discussion` = abbastanza pronta per una discussione pubblica
-- `moved-to-lab` = ripresa in uno spazio piu' strutturato
+- `ready-discussion` = abbastanza pronta per un confronto pubblico
+- `moved-to-lab` = sviluppata poi in uno spazio piu' strutturato
 - `parked` = pista sospesa o lasciata in attesa
