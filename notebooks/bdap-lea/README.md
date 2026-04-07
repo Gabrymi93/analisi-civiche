@@ -10,7 +10,12 @@
   - la soglia LEA del 5% e' un riferimento minimo, non un obiettivo vincolante
   - nessun aggiustamento pro-capite: un'ASL piccola puo' avere quota alta ma volume basso
 
-## In questa cartella
+## Prerequisiti
+
+- mart `mart_spesa_enti_2024.parquet` generato dalla pipeline bdap-lea
+- Path: `dataset-incubator/out/data/mart/bdap_lea/2024/mart_spesa_enti_2024.parquet`
+
+## Contenuti
 
 - notebook v0: incidenza % prevenzione per ASL, distribuzione, top/bottom 10
 - grafico: distribuzione percentuale con soglia LEA 5% e mediana evidenziata
