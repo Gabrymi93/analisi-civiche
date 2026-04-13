@@ -3,7 +3,7 @@
 - **Tema**: spesa sanitaria e prevenzione collettiva nelle ASL italiane
 - **Domanda**: quanto pesa la Prevenzione Collettiva e Sanita' Pubblica sul totale della spesa corrente delle ASL nel consuntivo 2024?
 - **Fonte**: BDAP - Modello LEA 2024
-- **Stato**: `draft`
+- **Stato**: `esplorativo`
 - **Caveat principali**:
   - il consuntivo 2024 potrebbe avere dati non ancora consolidati per alcuni enti
   - la voce contabile "Prevenzione Collettiva" e' un aggregato — non include attivita' di prevenzione in altri capitoli
